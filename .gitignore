@@ -1,0 +1,27 @@
+# Datasets
+datasets
+
+# python
+__pycache__/
+*.pyc
+.venv/
+.env/'
+*.ipynb
+
+# Training
+outputs/
+runs/
+checkpoints/
+*.pth
+*.pt
+*.onnx
+*.engine
+
+# IDE
+.vscode/
+.idea/
+
+# ROS 2
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log
